@@ -17,17 +17,17 @@ Annoying frame
 
 
 ## Requipments
-Directplay 9+
-Internet Explorer 6+
-Flock 1.2+ (Not yet)
-Flash player 27+
-Windows XP+
-1080p+ Monitor to up
-Java 5+
-Audio driver (Virtual ones are fine)
-Intel Pentium 3+
-50M+ Ram
-Even it supports PC's from 2000's
+1. Directplay 9+
+2. Internet Explorer 6+
+3. Flock 1.2+ (Not yet)
+4. Flash player 27+
+5. Windows XP+
+6. 1080p+ Monitor to up
+7. Java 5+
+8. Audio driver (Virtual ones are fine)
+9. Intel Pentium 3+
+10. 50M+ Ram
+11. Even it supports PC's from 2000's
 ## !!IMPORTANT!!!!
 THIS GAME ONLY SUPPORTS:
 SAMSUNG, LG, VIRTUALBOX, QEMU, HP, ASUS MONITORS!!! USING OTHERS WILL BREAK THE MONITOR
