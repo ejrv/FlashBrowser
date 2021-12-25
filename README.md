@@ -20,7 +20,7 @@ Annoying frame
 1. Directplay 9+
 2. Internet Explorer 6+
 3. Flock 1.2+ (Not yet)
-4. Flash player 27+
+4. Flash player 10+
 5. Windows XP+
 6. 1080p+ Monitor to up
 7. Java 5+
