@@ -19,7 +19,7 @@ Coming soon...
 ## Requipments
 1. Directplay 9+
 2. Internet Explorer 6+
-3. Flock 1.2+ (Not yet)
+3. DeFlock 1.2+ (Not yet)
 4. Flash player 10+
 5. Windows XP+
 6. 1080p+ Monitor to up
