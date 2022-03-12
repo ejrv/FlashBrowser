@@ -8,12 +8,12 @@ Coming soon...
 2. Others soon...
 
 ## Cons
-Keyboard isnt supported yet (sadly)
-Problems with JS and CSS Mostly Becuase it uses IE Engine
-Cant resize window
-Annoying Virtual Keyboard for unsupported Keyboarded Games
-Annoying X Button
-Annoying frame
+1. Keyboard isnt supported yet (sadly)
+2. Problems with JS and CSS Mostly Becuase it uses IE Engine
+3. Cant resize window
+4. Annoying Virtual Keyboard for unsupported Keyboarded Games
+5. Annoying X Button
+6. Annoying frame
 
 
 ## Requipments
