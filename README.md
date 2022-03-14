@@ -1,6 +1,6 @@
 # FlashBrowser
 Play almost **ALL** Flash Games in FlashBrowser As After March 2022.
-Coming soon...
+
 
 
 ## Features (Pros)
@@ -28,6 +28,5 @@ Coming soon...
 9. Intel Pentium 3+
 10. 50M+ Ram
 11. Even it supports PC's from 2000's
-## !!IMPORTANT!!!!
-THIS ONLY SUPPORTS:
-SAMSUNG, LG, VIRTUALBOX, QEMU, HP, ASUS MONITORS!!! USING OTHERS WILL BREAK THE MONITOR DRIVERS: ONLY SUPPORTS INTEL and AMD Graphic Drivers! RYZEN ISNT SUPPORTED
+
+IMPORTANT: Only Supporting Intel Graphics at this time.
